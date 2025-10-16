@@ -51,8 +51,8 @@ Data was obtained from [Yahoo Finance](https://finance.yahoo.com/) using the `yf
 **Visual Forecast Comparison:**
 
 <p align="center">
-<img src="results/download.png" width="45%" />
-<img src="results/lstm_forecast.png" width="45%" />
+<img src="results/download (2).png" width="45%" />
+<img src="results/download (3).png" width="45%" />
 </p>
 
 ---
